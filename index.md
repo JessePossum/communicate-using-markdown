@@ -5,3 +5,10 @@
 ##### H5
 
 ![Image of Nyanocat](https://octodex.github.com/images/nyantocat.gif) 
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+```
+<img onmouseover="bigImg(this)" src=
